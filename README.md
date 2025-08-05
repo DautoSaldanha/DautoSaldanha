@@ -15,17 +15,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-
----
-
-👋 About Me
-🌎 Originally from Brazil, currently living in Poland
-🎓 Philosophy Graduate turned Data Scientist
-💼 Research Analyst at LSEG (London Stock Exchange Group))
-🛠️ Building solutions with data, statistics & code
-🗣️ Languages: Portuguese (native), English, Polish and Spanish
-📖 Currently studying Data Science at EBAC (Escola Britânica de Artes Criativas & Tecnologia)
-
 ---
 
 🌎 Línguas
