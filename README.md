@@ -36,5 +36,5 @@
 ## 📱 Fale comigo
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dauto-saldanha-891876356)  
 - 📧 E-mail: [saldanhadauto9@gmail.com](mailto:saldanhadauto9@gmail.com)  
-- 🟢 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561984910371)
+- 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561984910371)
 
