@@ -30,14 +30,10 @@
 ## 🌐 Idiomas
 - Português (Nativo)  
 - Inglês (Intermediário)
-- Espanhol (Intermediário)
 
 ---
 
-## ✉️ Contato
+## 📞 Fale comigo
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dauto-saldanha-891876356)  
 - 📧 E-mail: [saldanhadauto9@gmail.com](mailto:saldanhadauto9@gmail.com)  
-- 📞 Telefone: +55 (61) 98491-0371
-
-
-
+- 📱 Telefone: [+55 (61) 9 8491-0371](tel:+5561984910371)
