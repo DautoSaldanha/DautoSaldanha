@@ -20,7 +20,6 @@
   <a href="#"><img alt="Power BI"      src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black"/></a>
   <a href="#"><img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-FF6F00?logo=tableau&logoColor=white"/></a>
   <a href="#"><img alt="Data Security" src="https://img.shields.io/badge/Data%20Security-0047AB?logo=security&logoColor=white"/></a>
-  <a href="#"><img alt="Full-Stack"    src="https://img.shields.io/badge/Full--Stack-Django-092E20?logo=django&logoColor=white"/></a>
 </p>
 
 
