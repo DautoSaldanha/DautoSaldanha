@@ -23,18 +23,21 @@
   <a href="#"><img alt="Full-Stack"    src="https://img.shields.io/badge/Full--Stack-Django-092E20?logo=django&logoColor=white"/></a>
 </p>
 
----
-
-
-
-
-
-🌎 Línguas
-Português (Nativo)
-Inglês (Intermediate)
 
 ---
-✉️ Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dauto-saldanha-891876356)
+
+
+## 🌐 Idiomas
+- Português (Nativo)  
+- Inglês (Intermediário)
+- Espanhol (Intermediário)
+
+---
+
+## ✉️ Contato
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dauto-saldanha-891876356)  
+- 📧 E-mail: [saldanhadauto9@gmail.com](mailto:saldanhadauto9@gmail.com)  
+- 📞 Telefone: +55 (61) 98491-0371
+
 
 
